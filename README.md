@@ -47,17 +47,17 @@ Colab 中的notebook 和py 檔案預設都是以/content/ 作為工作目錄，�
 
 # 文件上傳與下載
 Colab 也允許我們在執行腳本時候直接從本機檔案上傳，或將產生的模型下載到本機檔案：
-![](![](AIreport/11.png))
-![](![](AIreport/12.png))
+![](AIreport/11.png)
+![](AIreport/12.png)
 
 # 控制使用
 ### 網格
 Colab 為我們提供了Grid 以及Tab 控件，來便於我們建立簡單的圖表佈局：
-![](![](AIreport/13.png))
+![](AIreport/13.png)
 
 
 TabBar 提供了頁籤化的版面：     
-![](![](AIreport/14.png))
+![](AIreport/14.png)
 
 
 # 表單
